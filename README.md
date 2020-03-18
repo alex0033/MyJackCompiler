@@ -8,13 +8,13 @@ JackAnalyzer.cpp
 コンパイラのメインプログラム
 
 JackTokennizer.cpp
-JackTokennizerを作成するためのプログラム。
+JackTokennizerを作成するためのクラス
 
 CompilarionEngine.cpp
-JackTokennizerを元に構文解析を行う。
+JackTokennizerを元に構文解析を行うクラス
 
 SymbolTable.cpp
-シンボルテーブルの作成、管理
+シンボルテーブルの作成、管理するクラス
 
 VMWriter.cpp
-vmファイルへの書き込みを行う。
+vmファイルへの書き込みを行うクラス
